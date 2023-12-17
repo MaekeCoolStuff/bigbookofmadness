@@ -1,0 +1,139 @@
+Setup:
+- Place gameboard on the table.
+- Place the Madness cards on the window space on the board. This is the Madness stack.
+    - 2 players: 20 Madness Cards
+    - 3 players: 25 Madness Cards
+    - 4 players: 30 Madness Cards
+    - 5 players: 35 Madness Cards
+- Seperate each Curse according to type (Water, Earth, Fire, Air, Multi-Element) and shuffle each type.
+- Place the value-2 and value-3 Element cards face-up on the table, stacked by element and value to form 8 stacks.
+- Each player takes the 4 basic Spells (Combustion, Ice, Growth, and Telepathy). Place them face-up in front of you.
+- Each player chooses a Magician. Each player takes Element cards indicated on their Magician sheet. Shuffle them to form your deck, and place it face-down in front of you.
+- All remaining value-1 Element cards leave the game.
+- Compose the grimoire:
+ - Place the Final Page card on the right half of the Lectern, with the bonus/failure side facing up.
+ - Shuffle the interior page, and draw 5 random pages. Place them on top of the Final Page with their bonus/failure side facing up.
+ - Draw one random Cover Page, and place it face-down (cover-side-up) on top of the other cards on the Lectern.
+ - The grimoire is ready.
+- Sort the library Spells by Element, face-down. Draw one random Spell for each Element of value/cost 1, 2, and 3.
+- Use them to form four face-down decks (one per element), with the value-1 Spell on top and the value-3 spell on bottom.
+- Flip over the top card (value-1 Spell) of each deck so the top card is face-up.
+- These are the library Spells that you can learn during the game.
+- Place the Round Marker on the Round track on the gameboard according to the difficulty level you want.
+- Place the Invocatiuon Marker on the Invocation Space of the Invocation Track (0)
+- Place the Element tokens near the board. You will need them only for some Curses.
+- Randomly select the first player, who takes the Active Player Token. Then each player draws 6 cards from their deck to form a hand.
+- You are ready to start the Game.
+
+The Round Track
+
+This determines how many Multi-Element curses are added each round. Difficulty is determined by roman numerals.
+
+
+    I   II  III
+1.  x   x    1
+2.  x   1    1
+3.  1   1    2
+4.  1   2    2
+5.  2   2    2
+6.  2   2    2
+
+Game board
+
+- The Round Track
+- Lectern (Contains Grimoire)
+- Window (Contains deck of Madness Cards)
+- Invocation Track
+    - Invocation Space (0)
+    - Monster Space (1)
+    - Curse Space 1 (2)
+    - Curse Space 2 and 3 (3)
+    - Curse Space 4 (4)
+    - Curse Space 5 (5)
+
+Magician
+
+- Magician's Ability
+- Starting Element Cards
+- Slots for cards in the support pool
+
+Reading the Grimoire:
+- Monster Image
+- Monster Arrival/Enter effect
+- The Monster's Curses (in order)
+- Success bonus
+- Failure Penalty
+- The next Monster's Curses
+
+Overview
+
+- To win the game you must vanquish the Monster on the last page without going mad.
+- You have 6 rounds to do this.
+- Each round there is one monster to defeat.
+- A monster places curses on the board.
+- You must destroy all curses before you reach the Invocation Space to defeat a Monster.
+- Each player has a deck consisting of Element Cards and Madness Cards.
+- When your deck is empty and you need to draw or destroy a card in your deck you must add a Madness card to your discard then shuffle the discard to form a new deck.
+
+Gameplay:
+
+Players take turn in clockwise order. There are 4 phases.
+
+1. Concentration Phase
+    - Refresh the Spells that are in front of You
+    - If you use a spell it becomes exhausted (turned 90 degrees) until refreshed
+2. Monster Phase
+    - Advance Invocation Marker one space
+    - Apply the effects of the new space
+        - If the marker lands on a space numbered 2-5
+            - Apply Curse effects
+        - If the marker lands on the Invocation space
+            - if curses remain: suffer the failure effect, discard the remaining curses to the bottom of their respective piles
+            - if all curses were destroyed: you vanquished the monster, receive bonus effect
+            - immediately move the invocation marker to space 1: New Monster
+            - turn the page to move on to the next monster
+            - apply arrival effect
+            - during first player's first turn go to space 1: New Monster and open the book
+            - move the round marker down one box (except first turn of the game)
+            - draw 3 curses corresponding to the Element Symbols below the Monster
+            - place them face-up, after multi-element curses, in the open spaces.
+            - starting at space 2, note that space 3 can hold two curses
+3. Action Phase
+    - Activate a Spell
+        - It must not be exhausted
+        - Pay it's activation cost by discarding the required Element Cards. Then Exhaust it. Turn it 90 degrees.
+        - You can overpay to use a spell.
+        - You can pay up to 3 times the Activation cost. The variable in the spell description is multiplied by this number.
+        - You must always apply as much of the Spell effect as you can even if you can't apply all of it.
+    - Learn a new Spell
+        - They cost 2 Elements of the same type
+        - Place it in front of you and reveal the next spell.
+        - You can have a maximum of 5 Spells. When you buy a sixth, you have to replace another.
+        - You can use the Spell in the same turn.
+    - Aquire an Element Cards
+        - You can buy value-2 or value-3 cards of an element as long as they are available.
+        - You must spentd Elements of the same type and value to aquire them.
+        - Both the cards payed to aquire the Element card as well as the aquired card go to the discard pile.
+    - Destroy a curse
+        - You can destroy a curse by paying the cost showed on the curse card.
+        - As compensation you receive a value-2 Element card of your choice, which is added to discard pile.
+    - Cure one of your Madness cards
+        - Pay any 2 Elements of the same type
+        - Return the cured Madness card to the Madness stack.
+4. Recuperation Phase
+    - Draw/discard to 6 cards in your hand. You cannot discard Madness this way.
+    - If your deck is empty add a Madness card to your discard pile and shuffle a new deck
+    - If you have 6 Madness cards in this phase you are eliminated
+    - Your turn is over. The player to your left takes their turn.
+End of the Game
+- You All win if the last monster is vanquished
+- You all lose if:
+    - Must take a Madness card but the stack is empty
+    - Fail to vanquish the last Monster
+    - All players are eliminated due to Madness
+
+Play Modes:
+Normal: normal game rules
+Terror: Each player starts the game with a Madness card shuffled into their deck. This card comes from the Madness Stack.
+Nightmare: Each player replaces their value-2 starting card with a value-1 card.
+      

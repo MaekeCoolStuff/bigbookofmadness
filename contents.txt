@@ -1,0 +1,250 @@
+Element Cards:
+
+- Earth/Green
+    - Value 1: 18x
+    - Value 2: 10x
+    - Value 3: 6x
+- Air/White 
+    - Value 1: 18x
+    - Value 2: 10x
+    - Value 3: 6x
+- Water/Blue
+    - Value 1: 18x
+    - Value 2: 10x
+    - Value 3: 6x
+- Fire/Red
+    - Value 1: 18x
+    - Value 2: 10x
+    - Value 3: 6x
+
+Curse Cards: 35x
+
+Basic Spells:
+
+- Ice: Place (1) card from your hand in support. (cost: 1 water) (5x)
+- Combustion: Destroy (1) card from your hand. (cost: 1 fire) (5x)
+- Telepathy: One other player takes (1) Action. (cost: 1 air) (5x)
+- Growth: Draw (1) card. (cost: 1 earth) (5x)
+
+Advanced Spells (All spells cost 2 of their element type to buy):
+
+- Water
+    - Cost 1:
+        - Torrential Rain: (1) player shuffles their discard pile and support into their deck.
+        - Cool Head: Place (1) card from your hand in support, then draw (1) card.
+        - Frost Mirror: Place (1) card from your discard pile in support.
+    - Cost 2:
+        - Raining Frogs: (1) other player shuffles their hand, support, and discard pile into their deck, then draws 5 cards.
+        - Glaciation: Destroy (1) card from the support pool, then replace it with 1 higher value card.
+        - Ice Touch: (1) other player draws 1 card. then places 1 card from their hand in support.
+    - Cost 3:
+        - Arctic Circle: Each player places (1) card in support, then draws (1) card.
+        - Ice Cocoon: Each player discards all Madness cards from their hand, then draws (1) card per Madness discarded.
+        - Tsunami: Each player who has at least one free support slot draws (1) card then puts it in support.
+
+- Fire
+    - Cost 1:
+        - Power of the Inferno: One player can discard (1) card, then draw (1) card.
+        - Warm-blooded: Discard (1) Madness. Then, for each Madness you discarded, draw 2 cards.
+        - Concentration: Destroy (1) card from your discard pile.
+    - Cost 2:
+        - Adrenaline: Draw (2) cards, then cure (1) Madness from your hand or support.
+        - Cauterization: Heal up to (2) Madness from your discard pile or support.
+        - Regeneration: One player cures (1) Madness from their hand, then draws (1) card.
+    - Cost 3:
+        - Purification: (1) other player cures all Madness from their hand.
+        - Aura of Fire: Cure (1) Madness from your hand, then receive (1) value-3 Element in your discard place.
+        - Circle of Fire: Each player cures (1) Madness from their hand or the support pool.
+
+- Air
+    - Cost 1:
+        - Breath: Give (1) card from your hand or from the support pool to another player's hand.
+        - Mental Control: (1) other player takes 1 Action, then draws 1 card.
+        - Aspiration: Receive (1) card in your hand from another player's hand, or from the support pool.
+    - Cost 2:
+        - Levitation: (1) other player draws up to six cards to their hand.
+        - Tornado: Exchange (1) card with another player.
+        - Eye of the Tornado: Each player discards (1) card from their hand, then draws (1) card.
+    - Cost 3:
+        - Avatar: Take (1) Action using only cards from the support pool without discarding them.
+        - Daydream: Each other player chooses (1) card from their discard pile and puts it in their hand.
+        - Illusion: (1) other player refreshes all their Spells, then takes 1 Action using their cards, without discarding them.
+
+Earth
+    - Cost 1:
+        - Stone Skin: Destroy (1) card from your hand or the support pool, then receive (1) higher-value card to yout discard pile.
+        - Sands of Tune: Choose (1) card from your discard pile, then place it on top of your deck.
+        - Essence of the Earth: (1) other player chooses 1 card from their discard pile, then places it on top of their deck.
+    - Cost 2:
+        - Bark Skin: (1) player may destroy an identical pair of Element cards from their hand and/or the support pool, then add one value-2 card of the same Element to their hand.
+        - Taking Root: Place (1) value-2 card on top of your deck.
+        - Abundance: One other player draws (2) cards.
+    - Cost 3:
+        - Earthquake: Cure all Madness in the support pool, then draw (2) cards.
+        - Telekinesis: Each player draws (1) card.
+        - Flowering: Place (1) value-3 card on top of your deck.
+
+Curse Cards (48x)
+
+- Water (9x)
+ - Each player receives 1 Madness in their discard pile. (4x)
+ - Each player places the top 2 cards of their deck in their discard pile.
+ - Each player places 1 Madness on top of their deck.
+ - Each player discards 1 Earh card.
+ - Each player discards 1 Fire card.
+ - Each player destroys the top card of their deck.
+
+- Fire (9x)
+ - Each player receives 1 Madness in their discard pile. (4x)
+ - Each player discards 1 Earth card.
+ - Each player destroys one value-2 card of their choice.
+ - Each player discards 1 Air card.
+ - Each player destroys the top card of their deck.
+ - Each player places the top 2 cards of their deck in their discard pile.
+
+- Air (9x)
+ - Each player receives 1 Madness in their discard pile. (4x)
+ - Each player discards 1 Water card.
+ - Each player destroys the top card of their deck.
+ - Each player places the top card of their deck into the discard pile of the player on their right.
+ - Each player discards 1 Fire card.
+ - Each player places the top 2 cards of their deck in their discard pile.
+
+- Earth (9x)
+ - Each player receives 1 Madness in their discard pile. (4x)
+ - Each player discards 1 Water card.
+ - Each player places the top 3 cards of their deck in their discard pile.
+ - Each player places the top 2 cards of their deck in their discard pile.
+ - Each player discards 1 Air card.
+ - Each player destroys the top card of their deck.
+
+- Multi Color / Element (12x)
+ - Each player discards their hand, then draws 5 cards.
+ - Each player discards their entire deck.
+ - Add 1 Fire token on all other Curses. Players must spend 1 additional Fire to destroy them.
+ - Destroy 4 Madness from the Madness stack.
+ - Add 1 Water token on all other Curses. Players must spend 1 additional Water to destroy them.
+ - Shuffle all destroyed Element and Madness cards. Starting with the active player, deal them in clockise order to the discard pile of each player (maximum 3 per player)
+ - Each player neutralizes 1 of their Spells (these Spells are available again as soon as the next Monster is revealed).
+ - Add 1 Air token on all other Curses. Players must spend 1 additional Air to destroy them.
+ - Each player discards one value-2 card of their choice.
+ - Each player discards all cards from their Support.
+ - Add 1 Earth token on all other Curses. Players must spend 1 additional Earth to destroy them.
+ - Each player receives 1 Madness on top of their deck.
+
+Invocation marker (book) (1x)
+
+Round marker (hat) (1x)
+
+Active Player token (1x)
+
+Element Tokens:
+    - Water (4x)
+    - Earth (4x)
+    - Fire (4x)
+    - Air (4x)
+
+Monster Pages
+
+- Cover Pages (6x)
+    - Green Jelly: Water, Earth, Air. Enter effect: Each player discards 1 card.
+    - Straw Hat: Fire, Air, Earth. Enter effect: Destroy as many Madness from the Madness stack as the number of players.
+    - Purple dragon: Earth, Fire, Water. Enter effect: The active player discards their deck.
+    - Purple bird: Air, Water, Fire. Enter effects: Add 2 random tokens to the third Curse card.
+    - Blue ghost: Earth, Fire, Water. Enter effect: Each player receives 1 Madness in their support.
+    - Flying Bee: Air, Water, Fire. Enter effect: Each player places the top 2 cards of their deck in their discard pile.
+- Main Pages (13x)
+    - Red Dragon: Air, Fire Earth. Enter effect: Each player discards their entire deck.
+        - Win previous monster: Each player who has a free support slot chooses 1 card from their discard pile and places it in their support.
+        - Fail previous monster: Each player discards one value-2 card.
+    - Green Goblin: Fire, Air, Water. Enter effect: Each player discards one value-3 card.
+        - Win previous monster: Each player draws 1 card.
+        - Fail previous monster: All players discard all Earth cards from their hands and support pool.
+    - Red Samurai: Water, Air, Earth. Enter effect: Each player places 1 Madness on top of their deck.
+        - Win previous monster: Each player cures 1 or 2 Madness from their hand and/or the support pool.
+        - Fail previous monster: Each player discards their hand, then draws 5 cards.
+    - Cloaked Octopus: Water, Fire, Air. Enter effect: Each player adds 1 Madness to their hand.
+        - Win previous monster: One player of your choice gains any 1 Spell in the Library.
+        - Fail previous monster: Destroy 4 Madness from the Madness Stack.
+    - Green Flying Tiger: Water, Earth, Fire. Enter effect: Destroy all cards in the support pool.
+        - Win previous monster: Each player chooses up to 2 cards of their discard pile and places them on top of their deck.
+        - Fail previous monster: All players discard all Air cards from their hand and support pool.
+    - Green Plant: Fire, Water, Earth. Enter effect: Destroy a total of 3 Spells of the players' choice from all player's Spells.
+        - Win previous monster: Each player cures all Madness from their discard pile.
+        - Fail previous monster: Each player places 1 Madness in their discard pile.
+    - Teal Octopus: Fire, Earth, Air. Enter effect: Each player places all Madness from their discard pile and support on top of their deck.
+        - Win previous monster: Each player may discard one value-1 card. A player who does receives one value-3 card of the same Element on top of their deck.
+        - Fail previous monster: All players discard all Water cards from their hands and support pool.
+    - Magma Golem: Earth, Air, Water. Enter effect: Each player destroys the first 2 cards of their deck.
+        - Win previous monster: Each player receives one value-2 card into their discard pile.
+        - Fail previous monster: All players discard all Fire cards from their hands and support pool.
+    - Red Spider: Air, Earth, Water. Enter effect: Each player discards 2 cards.
+        - Win previous monster: Each player may destroy 1 card from their discard pile. A player who does receives 1 higher-value card of the same Element into their hand.
+        - Fail previous monster: Each player receives 1 Madness into their discard pile.
+    - Moustache Jester: Air, Water, Fire. Enter effect: Place 1 Madness under each Curse. The player who destroys the curse places the Madness in their discard pile.
+        - Win previous monster: Cure all Madness in the support pool.
+        - Fail previous monster: Shuffle all destroyed Element and Madness cards. Starting with the active player, deal them in clockwise order to the discard piles of each player (maximum 3 per player).
+    - Orange Nail Monster: Earth, Air, Fire. Enter effect: One player of your choice discards all cards from their hand.
+        - Win previous monster: Each player who has a free support slot places the top card of their deck in their support.
+        - Fail previous monster: Each player destroys the top 2 cards of their deck.
+    - Blue undeads: Earth, Fire, Water. Enter effect: Each player who has at least 1 Madness in hand or support adds 1 Madness to their hand.
+        - Win previous monster: Each player may destroy as many cards from their hand as desired, then draw the same number of cards.
+        - Fail previous monster: One player discards all their support cards, then receives 3 Madness into their support.
+- Final Page (1x)
+    - Enter effect: Each player places 1 Madness on top of their deck when this monster arrives.
+        - Win previous monster: You win the game!
+        - Fail previous monster: You lose the game.
+        - The End
+
+Magician Sheets
+
+- Air
+    - Girl with Owl
+        - Special: Draw 1 card each time you destroy 1 Curse.
+        - Starting cards: Air 2: 1, Air 1: 2, Water 1: 4, Fire 1: 4, Earth 1: 1
+    - Boy with book
+        - Special: During your turn, you can draw 1 card. If it is a Madness card, cure it. Otherwise, discard it.
+        - Starting cards: Air 2: 1, Air 1: 3, Earth 1: 5, Water 1: 2, Fire 1: 1
+- Fire
+    - Girl with Dragon
+        - Special: During your turn, you can refresh 1 exhausted Spell in front of you or another player.
+        - Starting cards: Fire 2: 1, Fire 1: 3, Earth 1: 4, Water 1: 2, Air 1: 2
+    - Boy with Goblin
+        - Special: During your turn, you can discard 1 Madness card from your hand and draw 1 card.
+        - Starting cards: Fire 2: 1, Fire 1: 3, Air 1: 3, Water 1: 3, Earth 1: 2
+- Water
+    - Girl with Serpent
+        - Special: You can have up to 5 cards in Support.
+        - Starting cards: Water 2: 1, Water 1: 3, Air 1: 4, Fire 1: 2, Earth 1: 2
+    - Boy with Octopus
+        - Special: During your turn, you can treat one value-1 Air card as any Element of your choice.
+        - Starting cards: Water 2: 1, Water 1: 2, Air 1: 3, Fire 1: 3, Earth 1: 3
+- Green
+    - Girl with squirrel
+        - Special: During your turn, you can exchange 1 or 2 cards in your hand with the same number of cards in Support.
+        - Starting cards: Earth 2: 1, Earth 1: 1, Air 1: 4, Water 1: 3, Fire 1: 3,
+    - Boy with mushrooms
+        - Special: You can have up to 6 Spells.
+        - Starting cards: Earth 2: 1, Earth 1: 4, Fire 1: 3, Water 1: 3, Air 1: 1
+
+Player Aid:
+
+Your Turn:
+
+1. Concentration Phase
+    - Refresh your Spells.
+2. Monster Phase
+    - Advance the invocation marker (if 0, new Monster).
+    - Apply Curse effects (if applicable).
+3. Action Phase
+    - Learn a Spell - Discard 2 of the corresponding Element
+    - Cast a Spell - Discard required Elements 1x, 2x, or 3x the required amount (once per Spell per turn).
+    - Gain an Element card - To gain a value-2 or value-3 Element card, discard 2 or 3 of the corresponding Element.
+    - Destroy a Curse - Discard the indicated Element. Gain a value-2 Element card of your choice.
+    - Heal yourself - Discard 2 of an Element.
+4. Recuperation Phase
+    - Draw/discard to get your hand to 6 cards.
+    - If you have 6 Madness cards in hand, you are eliminated.
+
+Then the player to your left becomes the active player.
+
